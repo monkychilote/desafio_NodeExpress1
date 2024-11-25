@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "titulo": "Thunder",
+    "artista": "AC / CD",
+    "tono": "Rock"
+  },
+  {
+    "id": "2",
+    "titulo": "Imagine (Editada)",
+    "artista": "John Lennon",
+    "tono": "Balada"
+  },
+  {
+    "id": "3",
+    "titulo": "Bohemian Rhapsody",
+    "artista": "Queen",
+    "tono": "Rock"
+  },
+  {
+    "id": "4",
+    "titulo": "Hotel California",
+    "artista": "Eagles",
+    "tono": "Rock"
+  },
+  {
+    "id": "6",
+    "titulo": "Stairway to Heaven",
+    "artista": "Led Zeppelin",
+    "tono": "Rock"
+  },
+  {
+    "id": "7",
+    "titulo": "Sweet Child O' Mine (Editada)",
+    "artista": "Guns N' Roses",
+    "tono": "Rock"
+  },
+  {
+    "id": "8",
+    "titulo": "Back in Black",
+    "artista": "AC/DC",
+    "tono": "Rock"
+  },
+  {
+    "id": "9",
+    "titulo": "Smells Like Teen Spirit (Editada)",
+    "artista": "Nirvana",
+    "tono": "Grunge​​ rock"
+  },
+  {
+    "id": "10",
+    "titulo": "Let It Be (Editada)",
+    "artista": "The Beatles",
+    "tono": "Balada"
+  },
+  {
+    "id": 11,
+    "titulo": "Jump",
+    "artista": "Van Halen",
+    "tono": "Rock"
+  },
+  {
+    "id": 12,
+    "titulo": "Doubleback",
+    "artista": "ZZ Top",
+    "tono": "Rock"
+  }
+]
